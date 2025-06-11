@@ -2,8 +2,7 @@
 
 ## 👋 Hi there, I'm Shivu Kumar
 
-I'm a tech enthusiast . I’m passionate about **ethical hacking**, **web development**, and working with **Linux-based systems**. I enjoy learning by building projects and experimenting with tools to understand how things really work!
-
+I'm a tech enthusiast . I'm passionate about technology and development, exploring various domains including web development,cybersecurity, and working with Linux-based systems.
 ---
 
 ## 🛠️ Technologies & Tools
@@ -36,7 +35,7 @@ Python, C, HTML, CSS, SQL, Bash
 
 ## 📫 Let's Connect
 
-* 🌐 [LinkedIn](https://www.linkedin.com/in/your-profile)
+* 🌐 [LinkedIn](https://www.linkedin.com/in/shivu-kumar-a-m)
 
 ---
 
