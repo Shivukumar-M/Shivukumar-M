@@ -2,7 +2,7 @@
 
 ## 👋 Hi there, I'm Shivu Kumar
 
-I'm a tech enthusiast . I'm passionate about technology and development, exploring various domains including web development,cybersecurity, and working with Linux-based systems.
+I'm passionate about technology and development, exploring various domains including web development,cybersecurity, and working with Linux-based systems.
 ---
 
 ## 🛠️ Technologies & Tools
