@@ -1,150 +1,87 @@
-<!-- Title Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,2,5,0,4&height=200&section=header&text=Shivu%20Kumar&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=059669,10B981,34D399,6EE7B7&height=250&section=header&text=Shivu%20Kumar&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35" width="100%"/>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=34D399&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Python+%26+Django+Enthusiast;Building+Robust+Backends;Crafting+Creative+Solutions" alt="Typing SVG" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>👋 About Me</h3>
+  <p width="600px">
+    I am a passionate developer focusing on <b>Python</b>, <b>Web Development</b>, and <b>System Automation</b>. <br>
+    I love turning logic into functional code, whether it's a complex Django backend or a simple CLI tool to automate daily tasks.
+  </p>
+</div>
+
+<br/>
+
+<h2 align="center">⚡ Tech Stack & Arsenal</h2>
+
+<div align="center">
+  
+| **Backend & Core** | **Frontend & UI** | **Data & DevOps** |
+|:---:|:---:|:---:|
+| <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <br> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /> <br> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /> <br> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> | <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <br> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <br> <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <br> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> | <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <br> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <br> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <br> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /> |
 
 </div>
 
 <br>
 
-<!-- SKILLS SECTION WITH A CREATIVE BOX STYLE -->
-<h2 align="center">🛠️ Technical Skillset</h2>
+<h2 align="center">🛠️ Featured Projects</h2>
 
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=10B981,059669&height=5" width="100%"/>
+</div>
 
-  <div style="padding: 20px; border: 2px solid #10B981; border-radius: 14px; width: 90%; max-width: 900px; background: rgba(16,185,129,0.07);">
+<br>
 
-  <!-- LANGUAGES IN ONE SINGLE LINE -->
-  <h3>Technologies I Use</h3>
+### 🚀 Backend & Applications
+| Project | Description | Stack | Status |
+| :--- | :--- | :--- | :---: |
+| **📝 Django Blog** | Full-featured blog with admin panel, user auth, and category management. | `Django` `SQLite` `Bootstrap` | 🟢 Live |
+| **📦 File Organizer CLI** | Automation script that instantly cleans folders by sorting file extensions. | `Python` `OS Module` `Shutil` | 🟡 Beta |
+| **🔐 Secure Vault** | File encryption tool using secure algorithms to protect sensitive data. | `Python` `Cryptography` | 🟢 Stable |
+| **✅ Task Master** | A robust To-Do application with CRUD operations and user sessions. | `Django` `HTML/CSS` | 🟢 Completed |
 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C_Programming-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-CF5B1E?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-0277BD?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash_Scripting-181717?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-0B5D8C?style=for-the-badge&logo=postgresql&logoColor=white" />
+<br>
+
+### 🎮 Interactive & Games
+| Project | Description | Stack | Status |
+| :--- | :--- | :--- | :---: |
+| **🧠 Memory Matrix** | A card flipping game with scoring logic and smooth animations. | `JS` `Tailwind` | 🟢 Live |
+| **🧱 Logic Tetris** | Browser-based implementation of the classic block puzzle. | `HTML5` `Vanilla JS` | 🟡 Beta |
+| **🎲 Ludo Prototype** | Logic design and prototyping for a multiplayer board game. | `JavaScript` | 🚧 WIP |
+
+<br>
+
+<h2 align="center">📊 Coding Analytics</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shivukumar-M&show_icons=true&theme=transparent&hide_border=false&title_color=10B981&icon_color=10B981&text_color=999&border_color=10B981" height="160" alt="stats graph" />
   
-  <img src="https://img.shields.io/badge/Django-0C4B33?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-00A884?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivukumar-M&layout=compact&theme=transparent&hide_border=false&title_color=10B981&icon_color=10B981&text_color=999&border_color=10B981" height="160" alt="languages graph" />
+</div>
 
+<div align="center">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivukumar-M&theme=transparent&hide_border=false&background=0D1117&sideNums=10B981&currStreakLabel=10B981&fire=10B981&ring=10B981&currStreakNum=ffffff&border=10B981" alt="streak graph" />
+</div>
 
-  <img src="https://img.shields.io/badge/MongoDB-10A460?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-2F5E8D?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-044a64?style=for-the-badge&logo=sqlite&logoColor=white" />
+<br><br>
 
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
+<div align="center">
+  <h3>🤝 Let's Connect</h3>
+  
+  <a href="https://www.linkedin.com/in/shivu-kumar-a-m">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Shivukumar-M">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 
   <br><br>
-
-  <!-- DEPLOYMENT -->
-  <h3>Deployment</h3>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Render-00E7B5?style=for-the-badge&logo=render&logoColor=white" />
-
-  </div>
-</div>
-
-<br><br>
-
-<!-- PROJECTS -->
-<h2 align="center">🚀 Featured Projects</h2>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=3,1,0,5&height=2" />
-</div>
-
-<h3>🖥️ Django & Backend Projects</h3>
-
-<table>
-<tr><th>Project</th><th>Description</th><th>Tech Stack</th></tr>
-
-<tr>
-<td>📝 Django Blog</td>
-<td>A clean and functional blog with admin panel, posts & categories</td>
-<td>Django, SQLite, HTML/CSS</td>
-</tr>
-
-<tr>
-<td>📦 File Organizer CLI</td>
-<td>Automatically categorizes files based on extensions</td>
-<td>Python, OS Module</td>
-</tr>
-
-<tr>
-<td>🔐 File Encryption Tool</td>
-<td>Encrypt/Decrypt files with secure algorithms</td>
-<td>Python</td>
-</tr>
-
-<tr>
-<td>📝 Django To-Do App</td>
-<td>Task manager with login, logout, and CRUD support</td>
-<td>Django, SQLite</td>
-</tr>
-
-</table>
-
-<br>
-
-<h3>🎮 JavaScript Games</h3>
-
-<table>
-<tr><th>Project</th><th>Description</th><th>Tech</th></tr>
-
-<tr>
-<td>🎮 Memory Game</td>
-<td>Smooth animations, scoring, timer system</td>
-<td>HTML, TailwindCSS, JavaScript</td>
-</tr>
-
-<tr>
-<td>🧩 Puzzle / Tetris</td>
-<td>Mini logic puzzle & Tetris concepts</td>
-<td>HTML, JavaScript</td>
-</tr>
-
-<tr>
-<td>🎲 Ludo & Crossword</td>
-<td>Prototype designs for future game dev</td>
-<td>HTML, JavaScript</td>
-</tr>
-
-</table>
-
-<br><br>
-
-<!-- GITHUB STATS -->
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shivukumar-M&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=10B981&icon_color=10B981" />
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivukumar-M&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=10B981" />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivukumar-M&theme=react&hide_border=true&background=0D1117&sideNums=10B981&currStreakLabel=10B981" />
-</div>
-
-<br><br>
-
-<!-- SOCIAL -->
-<h2 align="center">🤝 Connect With Me</h2>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/shivu-kumar-a-m">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="https://github.com/Shivukumar-M">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-
-  <img src="https://komarev.com/ghpvc/?username=Shivukumar-M&color=10B981&style=for-the-badge&label=Profile+Views" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,4,2,5&height=100&section=footer&animation=twinkling" />
-  <h3>⚡ Crafting Solutions One Line at a Time</h3>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=059669,10B981,34D399,6EE7B7&height=100&section=footer&animation=twinkling"/>
 </div>
