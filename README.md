@@ -14,7 +14,7 @@
   <p><i>My customized environment for building and deploying.</i></p>
   
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,fastapi,bash,java,c,php&perline=6" />
+    <img src="https://skillicons.dev/icons?i=python,django,fastapi,bash,java,c,php&perline=7" />
   </a>
   <br><br>
   
