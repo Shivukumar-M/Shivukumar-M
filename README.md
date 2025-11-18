@@ -2,7 +2,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,2,5,0,4&height=200&section=header&text=Shivu%20Kumar&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2500&pause=1000&color=3BE8B0&center=true&vCenter=true&width=750&lines=Backend+Developer+%7C+Django+%26+FastAPI;Python+Automation+Developer;Linux+%26+Open+Source+Enthusiast;Building+Secure+and+Efficient+Systems" />
 </div>
 
 <br>
@@ -23,26 +22,15 @@
   <img src="https://img.shields.io/badge/CSS-0277BD?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash_Scripting-181717?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-0B5D8C?style=for-the-badge&logo=postgresql&logoColor=white" />
-
-  <br><br>
-
-  <!-- BACKEND -->
-  <h3>Backend Frameworks</h3>
+  
   <img src="https://img.shields.io/badge/Django-0C4B33?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-00A884?style=for-the-badge&logo=fastapi&logoColor=white" />
 
-  <br><br>
 
-  <!-- DATABASES -->
-  <h3>Databases</h3>
   <img src="https://img.shields.io/badge/MongoDB-10A460?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-2F5E8D?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-044a64?style=for-the-badge&logo=sqlite&logoColor=white" />
 
-  <br><br>
-
-  <!-- TOOLS -->
-  <h3>Tools & Platforms</h3>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
