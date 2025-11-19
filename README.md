@@ -49,14 +49,14 @@
   
   <table>
     <tr>
-      <td width="50%">
-        <h3 align="center" style="color: #10b981;">🌐 Civic Connect</h3>
+       <td width="50%">
+        <h3 align="center" style="color: #10b981;">📝 Django TaskMaster</h3>
         <div align="center">
-            <img src="https://img.shields.io/badge/Status-Online-10b981?style=flat-square" />
+            <img src="https://img.shields.io/badge/Type-Auth_System-10b981?style=flat-square" />
             <br>
-            Geolocation platform for citizens to report local issues to authorities.
+            Task management app with User Authentication (Login/Register) & CRUD.
             <br><br>
-            <code>Django</code> <code>React</code> <code>PostgreSQL</code>
+            <code>Django</code> <code>SQLite</code> <code>Bootstrap</code>
         </div>
       </td>
       <td width="50%">
@@ -99,14 +99,14 @@
 
   <table>
     <tr>
-      <td width="50%">
-        <h3 align="center" style="color: #10b981;">📝 Django TaskMaster</h3>
+     <td width="50%">
+        <h3 align="center" style="color: #10b981;">🌐 Civic Connect</h3>
         <div align="center">
-            <img src="https://img.shields.io/badge/Type-Auth_System-10b981?style=flat-square" />
+            <img src="https://img.shields.io/badge/Status-Online-10b981?style=flat-square" />
             <br>
-            Task management app with User Authentication (Login/Register) & CRUD.
+            Geolocation platform for citizens to report local issues to authorities.
             <br><br>
-            <code>Django</code> <code>SQLite</code> <code>Bootstrap</code>
+            <code>Django</code> <code>React</code> <code>PostgreSQL</code>
         </div>
       </td>
       <td width="50%">
@@ -132,7 +132,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Shivukumar-M&show_icons=true&theme=transparent&hide_border=false&title_color=10b981&icon_color=06b6d4&text_color=b5b5b5&border_color=10b981" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivukumar-M&layout=compact&theme=transparent&hide_border=false&title_color=10b981&icon_color=06b6d4&text_color=b5b5b5&border_color=10b981" height="150" />
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivukumar-M&theme=transparent&hide_border=false&background=0D1117&sideNums=10b981&currStreakLabel=06b6d4&fire=10b981&ring=06b6d4&currStreakNum=ffffff&border=10b981" />
+  
 </div>
 
 <br><br>
