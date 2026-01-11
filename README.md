@@ -1,94 +1,248 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0f172a,06b6d4,10b981&height=300&section=header&text=SHIVU%20KUMAR&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=%E2%9A%94%EF%B8%8F+Cyber+Security+Enthusiast+%7C+%F0%9F%90%A7+Linux+Power+User+%7C+%F0%9F%92%BB+Full+Stack+Dev&descSize=20&descAlignY=60&descAlign=50" width="100%"/>
+
+<!-- Kernel Identity (Clean) -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=130&text=SHIVU_KUMAR.AM&fontSize=54&fontColor=10b981&animation=fadeIn&desc=SYSTEM%20IDENTITY&descSize=14&descAlignY=78"/>
+
+
+
+<!-- Animated infinite-flow snake (small pieces loop) -->
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+<!-- Typing line -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=10b981&center=true&vCenter=true&width=850&lines=Linux+Engineer;Full+Stack+Web+Developer;Cyber+Security+Enthusiast;Build+%E2%86%92+Secure+%E2%86%92+Automate"/>
+</div>
+
+
+---
+
+## Profile 
+<div align="center"  >
+<table>
+<tr>
+<td width="80%">
+
+```yaml
+Name: Shivu Kumar A M
+Core Identity:
+  - Linux 
+  - Full Stack Web Developer
+  - Cyber Security Enthusiast
+Primary Languages: Python, JavaScript, Bash
+Backend Focus:  Django, FastAPI,Node.js
+Databases: PostgreSQL, MySQL, MongoDB
+Mindset: Build → Secure → Automate
+````
+
+</td>
+<td width="60%" align="center">
+
+```
+┌────────────────────────────┐
+│  LINUX: PRIMARY PLATFORM   │
+│  WEB: PRODUCTION FOCUSED   │
+│  SECURITY: BUILT-IN        │
+│  AUTOMATION: ENABLED       │
+└────────────────────────────┘
+```
+
+</td>
+</tr>
+</table>
+</div >
   
-  <div align="center">
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=10b981&center=true&vCenter=true&width=800&lines=%3E+sudo+apt-get+update+knowledge...;%3E+Bypassing+limitations...;%3E+Analyzing+Malware_Signatures...;%3E+Building+Secure_Digital_Infrastructures...;%3E+Coffee.exe+is+running...;%3E+Access_Granted_%E2%9C%93" alt="Typing SVG" />
-    </a>
-  </div>
-</div>
+---
 
-<br>
+## 🧠 How the Three Areas Connect
 
-## 👤 Identity Profile
-* 🔭 **Current Mission:** Developing an **AI-Driven Malware Detection Engine** for proactive threat hunting.
-* 🛡️ **Passion:** Deeply obsessed with **Cybersecurity**, Network Defense, and Cryptography.
-* 🐧 **OS Environment:** Proud **Linux User** (Customizing kernels and automating everything via Bash).
-* 🌐 **Web Vision:** Crafting secure, scalable, and responsive Full Stack applications.
+```
+🐧 Linux gives me control of the system
+🌐 Web development lets me build products
+🔐 Security ensures what I build survives real-world use
+```
+
+I don’t treat these as separate roles — they reinforce each other.
 
 ---
 
-## 🛠️ The Arsenal (Technical Skills)
+## ⚙️ Core Capabilities 
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%"><strong>Layer 1: Security & Ops</strong></td>
-      <td align="center" width="33%"><strong>Layer 2: Backend & AI</strong></td>
-      <td align="center" width="33%"><strong>Layer 3: Frontend & Web</strong></td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=linux,bash,docker,aws,kali,git&theme=dark" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=python,java,django,mysql,postgres,fastapi&theme=dark" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,html,css&theme=dark" />
-        </a>
-      </td>
-    </tr>
-  </table>
+
+<table>
+<tr>
+
+<td align="center">
+
+### 🐧 Linux  
+<img src="https://img.shields.io/badge/Linux-Advanced-06b6d4?style=for-the-badge"/>
+
+</td>
+
+<td align="center">
+
+### 🌐 Web Development  
+<img src="https://img.shields.io/badge/Full%20Stack-Strong-10b981?style=for-the-badge"/>
+
+</td>
+
+<td align="center">
+
+### 🔐 Cyber Security  
+<img src="https://img.shields.io/badge/Security-Secure%20by%20Design-ef4444?style=for-the-badge"/>
+
+</td>
+
+</tr>
+</table>
+
 </div>
 
----
-
-## 🚀 Mission Logs (Key Projects)
-
-### ☣️ Specialized Security Research
-* **[Malware_Detection]** - My Major Project. A Python-based analysis engine focusing on detecting malicious intent in binary and script files.
-* **[Encryption-Manager]** - A Java-based cryptographic vault for managing AES-256 encrypted data.
-* **[FaceCapture]** - Biometric security implementation using JavaScript for secure identity logging.
-
-### 🏆 Hackathon & Performance Builds
-* **[Srinathon 2.0 / CivicSense]** - Geolocation-based incident reporting platform. Built for rapid deployment and high scalability.
-* **[SDIT-BOT]** - Custom Python automation for student-institution interaction, bridging the gap between users and data.
-
-### 💻 Web Development & Fun
-* **[DreamCars]** - A complete PHP/MySQL car rental ecosystem.
-* **[2048-Game / Tetris]** - Logic-heavy game clones exploring complex state management and algorithms.
 
 ---
 
-## 📊 Terminal Analytics
+## 🛠️ Tech Stack & Environment
+
+### ⚡ Languages & Systems
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivukumar-M&theme=tokyonight&hide_border=false&stroke=10b981&background=0f172a" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Shivukumar-M&show_icons=true&theme=transparent&title_color=10b981&icon_color=06b6d4&text_color=b5b5b5&border_color=10b981" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivukumar-M&layout=compact&theme=transparent&title_color=10b981&icon_color=06b6d4&text_color=b5b5b5&border_color=10b981" height="165" />
+  <img src="https://skillicons.dev/icons?i=python,js,php,java,bash,linux,kali&perline=7" />
+</div>
+
+### 🌐 Web & Backend
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,react,django,fastapi,html,css,tailwind&perline=8" />
+</div>
+
+### 🗄️ Databases & DevOps
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker,aws,git,vercel&perline=7" />
+</div>
+
+
+---
+
+## 🚀 Projects
+
+<table>
+<tr>
+
+<td>
+
+### ☣️ Malware Analysis Engine
+
+Static malware inspection & analysis system
+`Python` `Linux`
+
+</td>
+
+<td>
+
+### 🔐 Encryption Manager
+
+AES-256 encryption & key management tool
+`Java` `Cryptography`
+
+</td>
+</tr>
+<tr>
+<td>
+
+### 🚗 DreamCars Rental
+
+Full-stack vehicle rental & management portal
+`PHP` `MySQL`
+
+</td>
+
+<td>
+
+### 🤖 SDIT / Gemini Automation
+
+CLI & web automation for institutional workflows
+`Python` `Node.js`
+
+</td>
+</tr>
+
+<tr>
+
+<td>
+
+### 👁️ FaceCapture AI
+
+Biometric authentication prototype
+`JavaScript` `OpenCV`
+
+</td>
+<td>
+
+### 🌐 CivicSense 
+
+Secure civic issue reporting web platform
+`Node.js` `React` `PostgreSQL`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧪 How I Usually Work
+
+```
+1. Design the system (web / backend)
+2. Build inside Linux environments
+3. Secure inputs, APIs, and data
+4. Automate repetitive tasks
+5. Monitor and improve
+```
+
+This applies whether I’m building a **web app**, a **Linux service**, or a **security tool**.
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivukumar-M&theme=tokyonight&stroke=10b981&background=0f172a" width="100%" />
 </div>
 
 ---
 
-## 🤝 Establish Connection
+## 🎯 Currently Improving
+
+```
+• Advanced backend patterns
+• Linux internals & optimization
+• Secure web architectures
+• Python automation & tooling
+```
+
+---
+
+## 📡 Connect
+
 <div align="center">
   <a href="https://www.linkedin.com/in/shivu-kumar-a-m">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://github.com/Shivukumar-M">
+    <img src="https://img.shields.io/badge/GitHub-10b981?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <h3><i>"In a world full of 1s and 0s, be the one who secures them."</i></h3>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0f172a,06b6d4,10b981&height=120&section=footer&animation=fadeIn"/>
+ <h3><i>"In a world full of 1s and 0s, be the one who secures them."</i></h3>
 </div>
+
+<div align="center">
+
+⭐ **Linux • Web Development • Cyber Security** ⭐
+© 2026 Shivu Kumar A M
+
+</div>
+
