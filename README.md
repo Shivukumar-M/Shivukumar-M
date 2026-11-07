@@ -54,11 +54,12 @@
 
 <h4 align="center">🔐 Security &nbsp;·&nbsp; 🌐 Web &nbsp;·&nbsp; 🤖 Automation</h4>
 
-<table width="100%" style="width:100%; table-layout:fixed;">
+<table width="100%" style="width:100%; table-layout:fixed; border-collapse:collapse;">
 <tr>
 <td width="50%" valign="top">
 
 ### ☣️ Malware Analysis Engine
+
 Static malware inspection & analysis system
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -69,6 +70,7 @@ Static malware inspection & analysis system
 <td width="50%" valign="top">
 
 ### 🔐 Encryption Manager
+
 AES-256 encryption & key management tool
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
@@ -77,10 +79,12 @@ AES-256 encryption & key management tool
 
 </td>
 </tr>
+
 <tr>
-<td valign="top">
+<td width="50%" valign="top">
 
 ### 🚗 DreamCars Rental
+
 Full-stack vehicle rental & management portal
 
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
@@ -88,9 +92,10 @@ Full-stack vehicle rental & management portal
 <img src="https://img.shields.io/badge/Full%20Stack-10b981?style=flat-square"/>
 
 </td>
-<td valign="top">
+<td width="50%" valign="top">
 
 ### 🤖 SDIT / Gemini Automation
+
 CLI & web automation for institutional workflows
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -99,10 +104,12 @@ CLI & web automation for institutional workflows
 
 </td>
 </tr>
+
 <tr>
-<td valign="top">
+<td width="50%" valign="top">
 
 ### 👁️ FaceCapture AI
+
 Biometric authentication prototype
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
@@ -110,9 +117,10 @@ Biometric authentication prototype
 <img src="https://img.shields.io/badge/Biometrics-06b6d4?style=flat-square"/>
 
 </td>
-<td valign="top">
+<td width="50%" valign="top">
 
 ### 🌐 CivicSense
+
 Secure civic issue reporting web platform
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
