@@ -23,68 +23,34 @@
 
 <img src="./assets/divider.svg" width="100%"/>
 
-<h2 align="center">🛠️ Tech Stack</h2>
+## 🛠️ Tech Stack & Environment
 
-<table>
-<tr>
-<td width="230" align="left" valign="middle">
+### ⚡ Languages & Systems
 
-**⚡ Languages & Systems**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,php,java,bash,linux,kali&perline=7" />
+</div>
 
-</td>
-<td align="center" valign="middle">
+### 🌐 Web & Backend
 
-<img src="https://skillicons.dev/icons?i=python,js,php,java,bash,linux,kali&perline=7&theme=dark"/>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,react,django,fastapi,html,css,tailwind&perline=8" />
+</div>
 
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
+### 🗄️ Databases & DevOps
 
-**🌐 Web & Backend**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker,aws,git,vercel&perline=7" />
+</div>
 
-</td>
-<td align="center" valign="middle">
 
-<img src="https://skillicons.dev/icons?i=nodejs,react,django,fastapi,html,css,tailwind&perline=7&theme=dark"/>
+---
 
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
 
-**🗄️ Databases & DevOps**
-
-</td>
-<td align="center" valign="middle">
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker,aws,git,vercel&perline=7&theme=dark"/>
-
-</td>
-</tr>
-</table>
 
 <img src="./assets/divider.svg" width="100%"/>
 
 <h2 align="center">🚀 Projects</h2>
-
-<h4 align="center">⭐ Featured</h4>
-
-<table>
-<tr>
-<td valign="top">
-
-### 🏥 [Healthcare Platform](https://github.com/Shivukumar-M/healthcare)
-Full-stack healthcare application with a dedicated **frontend** and **backend**.
-
-<img src="https://img.shields.io/badge/Full%20Stack-10b981?style=flat-square&labelColor=0f172a"/>
-<img src="https://img.shields.io/badge/Frontend-06b6d4?style=flat-square&labelColor=0f172a"/>
-<img src="https://img.shields.io/badge/Backend-f59e0b?style=flat-square&labelColor=0f172a"/>
-<a href="https://github.com/Shivukumar-M/healthcare"><img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
-
-</td>
-</tr>
-</table>
 
 <h4 align="center">🔐 Security &nbsp;·&nbsp; 🌐 Web &nbsp;·&nbsp; 🤖 Automation</h4>
 
