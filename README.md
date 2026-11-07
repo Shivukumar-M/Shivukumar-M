@@ -54,9 +54,9 @@
 
 <h4 align="center">🔐 Security &nbsp;·&nbsp; 🌐 Web &nbsp;·&nbsp; 🤖 Automation</h4>
 
-<table>
+<table width="120%">
 <tr>
-<td width="75%" valign="top">
+<td width="50%" valign="top">
 
 ### ☣️ Malware Analysis Engine
 Static malware inspection & analysis system
@@ -66,7 +66,7 @@ Static malware inspection & analysis system
 <img src="https://img.shields.io/badge/Security-ef4444?style=flat-square"/>
 
 </td>
-<td width="75%" valign="top">
+<td width="50%" valign="top">
 
 ### 🔐 Encryption Manager
 AES-256 encryption & key management tool
