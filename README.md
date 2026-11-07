@@ -54,9 +54,9 @@
 
 <h4 align="center">🔐 Security &nbsp;·&nbsp; 🌐 Web &nbsp;·&nbsp; 🤖 Automation</h4>
 
-<table width="100%" style="width:100%; table-layout:fixed; border-collapse:collapse;">
+<table width="120%" style="width:120%; table-layout:fixed; border-collapse:collapse;">
 <tr>
-<td width="50%" valign="top">
+<td width="60%" valign="top">
 
 ### ☣️ Malware Analysis Engine
 
@@ -67,7 +67,7 @@ Static malware inspection & analysis system
 <img src="https://img.shields.io/badge/Security-ef4444?style=flat-square"/>
 
 </td>
-<td width="50%" valign="top">
+<td width="60%" valign="top">
 
 ### 🔐 Encryption Manager
 
@@ -81,7 +81,7 @@ AES-256 encryption & key management tool
 </tr>
 
 <tr>
-<td width="50%" valign="top">
+<td width="60%" valign="top">
 
 ### 🚗 DreamCars Rental
 
@@ -92,7 +92,7 @@ Full-stack vehicle rental & management portal
 <img src="https://img.shields.io/badge/Full%20Stack-10b981?style=flat-square"/>
 
 </td>
-<td width="50%" valign="top">
+<td width="60%" valign="top">
 
 ### 🤖 SDIT / Gemini Automation
 
@@ -106,7 +106,7 @@ CLI & web automation for institutional workflows
 </tr>
 
 <tr>
-<td width="50%" valign="top">
+<td width="60%" valign="top">
 
 ### 👁️ FaceCapture AI
 
@@ -117,7 +117,7 @@ Biometric authentication prototype
 <img src="https://img.shields.io/badge/Biometrics-06b6d4?style=flat-square"/>
 
 </td>
-<td width="50%" valign="top">
+<td width="60%" valign="top">
 
 ### 🌐 CivicSense
 
