@@ -54,13 +54,14 @@
 
 <h4 align="center">🔐 Security &nbsp;·&nbsp; 🌐 Web &nbsp;·&nbsp; 🤖 Automation</h4>
 
-## 🚀 Projects
+<!-- PROJECTS TABLE -->
+<div align="center">
 
-<table width="100%" style="width:100%; table-layout:fixed; border-collapse:collapse;">
+<table width="100%" align="center">
 <tr>
 <td width="50%" valign="top">
 
-### ☣️ Malware Analysis Engine
+<h3>☣️ Malware Analysis Engine</h3>
 
 Static malware inspection & analysis system
 
@@ -71,7 +72,7 @@ Static malware inspection & analysis system
 </td>
 <td width="50%" valign="top">
 
-### 🔐 Encryption Manager
+<h3>🔐 Encryption Manager</h3>
 
 AES-256 encryption & key management tool
 
@@ -85,7 +86,7 @@ AES-256 encryption & key management tool
 <tr>
 <td width="50%" valign="top">
 
-### 🚗 DreamCars Rental
+<h3>🚗 DreamCars Rental</h3>
 
 Full-stack vehicle rental & management portal
 
@@ -96,7 +97,7 @@ Full-stack vehicle rental & management portal
 </td>
 <td width="50%" valign="top">
 
-### 🤖 SDIT / Gemini Automation
+<h3>🤖 SDIT / Gemini Automation</h3>
 
 CLI & web automation for institutional workflows
 
@@ -110,7 +111,7 @@ CLI & web automation for institutional workflows
 <tr>
 <td width="50%" valign="top">
 
-### 👁️ FaceCapture AI
+<h3>👁️ FaceCapture AI</h3>
 
 Biometric authentication prototype
 
@@ -121,7 +122,7 @@ Biometric authentication prototype
 </td>
 <td width="50%" valign="top">
 
-### 🌐 CivicSense
+<h3>🌐 CivicSense</h3>
 
 Secure civic issue reporting web platform
 
@@ -132,6 +133,8 @@ Secure civic issue reporting web platform
 </td>
 </tr>
 </table>
+
+</div>
 
 <img src="./assets/divider.svg" width="100%"/>
 
