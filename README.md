@@ -54,7 +54,7 @@
 
 <h4 align="center">🔐 Security &nbsp;·&nbsp; 🌐 Web &nbsp;·&nbsp; 🤖 Automation</h4>
 
-<table width="120%">
+<table width="100%" style="width:100%; table-layout:fixed;">
 <tr>
 <td width="50%" valign="top">
 
